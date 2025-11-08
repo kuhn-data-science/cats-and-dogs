@@ -43,7 +43,8 @@ Accessed via [Roboflow](https://universe.roboflow.com/brad-dwyer/oxford-pets)
 ---
 
 ## 👤 Author
-**Your Name**  
-Machine Learning & Computer Vision  
-📧 your.email@example.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile) · [GitHub](https://github.com/yourusername)
+
+Moritz Konstantin Kuhn  
+Data Science & Communication Research  
+📧 [moritzk.kuhn@gmx.com](mailto:moritzk.kuhn@gmx.com)  
+🔗 [https://www.linkedin.com/in/moritz-konstantin-kuhn](https://www.linkedin.com/in/moritz-konstantin-kuhn)
